@@ -8,6 +8,7 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <Text>Just For Fun...</Text>
       <Text>Good Luck</Text>
+      <Text>Testing the git with snack.expo </Text>
       <StatusBar style="auto" />
     </View>
   );
