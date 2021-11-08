@@ -9,6 +9,7 @@ export default function App() {
       <Text>Just For Fun...</Text>
       <Text>Good Luck</Text>
       <Text>Testing the git with snack.expo </Text>
+      <Text>Testing the git with snack.expo 2 *************</Text>
       <StatusBar style="auto" />
     </View>
   );
